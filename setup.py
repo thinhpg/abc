@@ -1,6 +1,7 @@
 import os
 from setuptools import setup
 print("thinhh")
+print("thinhh")
 # Use the VERSION file to get version
 version_file = os.path.join(os.path.dirname(__file__), 'underthesea', 'VERSION')
 with open(version_file) as fh:
